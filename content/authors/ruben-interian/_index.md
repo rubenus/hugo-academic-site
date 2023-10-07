@@ -38,6 +38,11 @@ social:
     icon_pack: fas
     icon: envelope
     label: E-mail
+organizations:
+  - url: https://www.topuniversities.com/universities/universidade-de-sao-paulo
+    name: Universidade de São Paulo
+  - name: Universidade Estadual de Campinas (Unicamp)
+    url: https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp
 superuser: true
 ---
 I am currently a FAPESP Research Fellow at **University of São Paulo**. From 2019 to 2021, I held a Lead Data Analyst position at World Bank Group. 
