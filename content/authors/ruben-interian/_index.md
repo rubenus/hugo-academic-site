@@ -10,6 +10,7 @@ interests:
   - Complex networks
   - Computational social science
   - Network optimization
+  - Dynamic networks
 social:
   - display:
       header: false
