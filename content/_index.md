@@ -205,7 +205,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: @RubenUH
+          name: RubenUH
           link: 'https://twitter.com/RubenUH'
       # Automatically link email and phone or display as text?
       autolink: true
