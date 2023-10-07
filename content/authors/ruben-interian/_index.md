@@ -6,9 +6,9 @@ bio: My research field is Computational Social Science, focusing specifically on
   studying social phenomena through the analysis of individuals' interaction
   networks
 interests:
-  - Complex Networks
+  - Interaction networks
+  - Complex networks
   - Computational social science
-  - Interaction Networks
   - Network optimization
 social:
   - display:
