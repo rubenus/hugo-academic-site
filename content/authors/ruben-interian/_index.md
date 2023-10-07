@@ -45,15 +45,15 @@ organizations:
     url: https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp
 education:
   courses:
-    - year: 2011
-      institution: University of Havana
-      course: B.Sc. in Computer Science
-    - course: M.Sc. in Mathematics
-      institution: University of Havana
-      year: 2015
     - course: Ph.D. in Computer Science
       institution: Universidade Federal Fluminense
       year: 2019
+    - course: M.Sc. in Mathematics
+      institution: University of Havana
+      year: 2015
+    - year: 2011
+      institution: University of Havana
+      course: B.Sc. in Computer Science
 superuser: true
 ---
 I am currently a FAPESP Research Fellow at **University of São Paulo**. From 2019 to 2021, I held a Lead Data Analyst position at World Bank Group. 
