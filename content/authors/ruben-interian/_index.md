@@ -10,8 +10,8 @@ social:
   - display:
       header: false
     link: https://scholar.google.com/citations?user=eIyJnuAAAAAJ&hl=en
-    icon_pack: fas
-    icon: graduation-cap
+    icon_pack: ai
+    icon: google-scholar
   - display:
       header: true
     icon_pack: fab
