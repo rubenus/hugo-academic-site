@@ -10,7 +10,7 @@ social:
   - display:
       header: false
     link: https://scholar.google.com/citations?user=eIyJnuAAAAAJ&hl=en
-    icon_pack: fab
+    icon_pack: fas
     icon: graduation-cap
   - display:
       header: true
