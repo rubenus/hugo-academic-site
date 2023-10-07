@@ -5,7 +5,11 @@ avatar_filename: avatar.jpg
 bio: My research field is Computational Social Science, focusing specifically on
   studying social phenomena through the analysis of individuals' interaction
   networks
-interests: []
+interests:
+  - Complex Networks
+  - Computational social science
+  - Interaction Networks
+  - Network optimization
 social:
   - display:
       header: false
@@ -37,5 +41,7 @@ social:
 superuser: true
 ---
 I am currently a FAPESP Research Fellow at **University of São Paulo**. From 2019-2021, I held a Lead Data Analyst position at World Bank Group. 
+
+My research field is Computational Social Science, focusing specifically on studying social phenomena through the analysis of **interaction networks** that reflect the behavior of individuals and groups **on digital platforms**. I am particularly interested in empirical analysis and mathematical modeling of online communities' behavior, polarization, radicalization, conflicts, and other similar topics.
 
 I will be joining the **State University of Campinas** (Universidade Estadual de Campinas, Unicamp) as a tenure-track Computer Science Professor starting in December 2023. If you are interested in joining my lab as a MSc or PhD student, please feel free to contact me!
