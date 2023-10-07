@@ -10,5 +10,5 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: 2041358.jpg
+    image: ""
 ---
