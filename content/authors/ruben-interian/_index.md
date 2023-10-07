@@ -29,6 +29,11 @@ social:
     icon_pack: fas
     icon: envelope
     label: E-mail
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Ruben-Interian
+    icon: researchgate
+    icon_pack: ai
 superuser: true
 ---
 I am currently a FAPESP Research Fellow at **University of São Paulo**. From 2019-2021, I held a Lead Data Analyst position at World Bank Group. 
