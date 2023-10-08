@@ -38,6 +38,13 @@ sections:
           date_start: '2022-12-01'
           date_end: '2023-11-30'
           description:
+        - title: Lead Data Analyst, Consultant
+          company: The World Bank
+          company_url: 'https://www.worldbank.org/en/home'
+          company_logo: logoworldbank
+          date_start: '2019-02-01'
+          date_end: '2021-11-30'
+          description:
         - title: CEO
           company: GenCoin
           company_url: ''
