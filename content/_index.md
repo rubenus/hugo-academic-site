@@ -31,24 +31,24 @@ sections:
         #  date_start: '2016-01-01'
         #  date_end: '2020-12-31'
         #  description: Taught electronic engineering and researched semiconductor physics.
-		# --------------- HERE STARTS ---------------
-		- title: Professor of Computer Science
-      company: Universidade Estadual de Campinas
-      company_url: 'https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp'
-      company_logo: logounicamp
-      location: Campinas, São Paulo
-      date_start: '2023-12-01'
-      date_end: ''
-      description:
-    - title: CEO
-      company: GenCoin
-      company_url: ''
-      company_logo: org-gc
-      location: California
-      date_start: '2021-01-01'
-      date_end: ''
-      description: |2-
-          Responsibilities include:
+    # --------------- HERE STARTS ---------------
+        - title: Professor of Computer Science
+          company: Universidade Estadual de Campinas
+          company_url: 'https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp'
+          company_logo: logounicamp
+          location: Campinas, São Paulo
+          date_start: '2023-12-01'
+          date_end: ''
+          description:
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+            Responsibilities include:
               * Analysing
               * Modelling
               * Deploying
