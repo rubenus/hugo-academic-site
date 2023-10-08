@@ -38,7 +38,7 @@ sections:
           date_start: '2022-12-01'
           date_end: '2023-11-30'
           description:
-        - title: Lead Data Analyst, Consultant
+        - title: Lead Data Analyst and Consultant
           company: The World Bank
           company_url: 'https://www.worldbank.org/en/home'
           company_logo: logoworldbank
