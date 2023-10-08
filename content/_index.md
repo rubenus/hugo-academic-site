@@ -45,18 +45,6 @@ sections:
           date_start: '2019-02-01'
           date_end: '2021-11-30'
           description:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-            Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
     design:
       columns: '2'
   - block: accomplishments
