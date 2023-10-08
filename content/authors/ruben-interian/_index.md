@@ -61,4 +61,4 @@ I am currently a FAPESP Research Fellow at **University of São Paulo**. From 20
 
 My research field is Computational Social Science, focusing specifically on studying social phenomena through the analysis of **interaction networks** that reflect the behavior of individuals and groups **on digital platforms**. I am particularly interested in empirical analysis and mathematical modeling of online communities' behavior, polarization, radicalization, conflicts, and other similar topics.
 
-I will be joining the **State University of Campinas** (Universidade Estadual de Campinas, Unicamp) as a tenure-track Computer Science Professor starting in December 2023. If you are interested in joining my lab as a MSc or PhD student, please feel free to contact me!
+I will be joining the **State University of Campinas** (Universidade Estadual de Campinas, Unicamp) as a Professor at the Institute of Computing starting in December 2023. If you are interested in joining my lab as a MSc or PhD student, please feel free to contact me!
