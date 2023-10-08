@@ -1,7 +1,7 @@
 ---
 title: Ruben Interian
 role: Professor of Computer Science
-avatar_filename: avatar.jpg
+avatar_filename: 20231008_132906_cropped.jpg
 bio: My research field is Computational Social Science, focusing specifically on
   studying social phenomena through the analysis of individuals' interaction
   networks
