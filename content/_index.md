@@ -36,7 +36,7 @@ sections:
           company_url: 'https://www.topuniversities.com/universities/universidade-de-sao-paulo'
           company_logo: logousp
           date_start: '2022-12-01'
-          date_end: '2022-11-30'
+          date_end: '2023-11-30'
           description:
         - title: CEO
           company: GenCoin
