@@ -57,7 +57,7 @@ education:
       course: B.Sc. in Computer Science
 superuser: true
 ---
-I am currently a FAPESP Research Fellow at **University of São Paulo**. From 2019 to 2021, I held a Lead Data Analyst position at World Bank Group. 
+I am currently a FAPESP Research Fellow at **University of São Paulo**. 
 
 My research field is Computational Social Science, focusing specifically on studying human and information behavior through the analysis of **interaction networks** of individuals and groups **on digital platforms**. I am particularly interested in empirical analysis and mathematical modeling of online communities' behavior, polarization, radicalization, conflicts, and other similar topics. Key questions in my research are: What can we learn about people and communities from how they interact with each other through digital platforms? How do algorithms affect, and ideally can improve, both individual and social outcomes?  
 
