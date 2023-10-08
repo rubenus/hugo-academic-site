@@ -23,15 +23,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        #- title: Professor of Semiconductor Physics
-        #  company: University X
-        #  company_url: ''
-        #  company_logo: org-x
-        #  location: California
-        #  date_start: '2016-01-01'
-        #  date_end: '2020-12-31'
-        #  description: Taught electronic engineering and researched semiconductor physics.
-    # --------------- HERE STARTS ---------------
         - title: Professor of Computer Science
           company: Universidade Estadual de Campinas
           company_url: 'https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp'
@@ -39,6 +30,13 @@ sections:
           location: Campinas, São Paulo
           date_start: '2023-12-01'
           date_end: ''
+          description:
+        - title: FAPESP Postdoctoral Research Fellow
+          company: Universidade de São Paulo
+          company_url: 'https://www.topuniversities.com/universities/universidade-de-sao-paulo'
+          company_logo: logousp
+          date_start: '2022-12-01'
+          date_end: '2022-11-30'
           description:
         - title: CEO
           company: GenCoin
