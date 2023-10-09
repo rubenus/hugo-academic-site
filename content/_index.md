@@ -164,7 +164,7 @@ sections:
         postcode: '94305'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       contact_links:
         - icon: twitter
           icon_pack: fab
