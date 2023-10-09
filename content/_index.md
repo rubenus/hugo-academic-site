@@ -156,7 +156,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: ruben@icmc.usp.br
+      # email: ruben@icmc.usp.br
       address:
         street: Av. Trab. São Carlense 400
         city: São Carlos
