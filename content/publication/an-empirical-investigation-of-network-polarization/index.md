@@ -2,7 +2,7 @@
 title: An empirical investigation of network polarization
 subtitle: Applied Mathematics and Computation
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - R. Interian
   - C. C. Ribeiro
@@ -31,5 +31,5 @@ image:
   caption: Network of political blogs during the 2004 U.S. presidential election.
     Democratic and republican blogs are represented by blue and red circles,
     respectively.
-date: 2023-10-09T18:58:16.727Z
+date: 2018-12-15T18:58:16.727Z
 ---
