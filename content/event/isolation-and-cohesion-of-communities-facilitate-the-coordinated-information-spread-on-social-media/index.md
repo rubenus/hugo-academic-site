@@ -8,7 +8,11 @@ location: Jornal da USP
 date: 2023-09-28T19:00:00.000Z
 date_end: 2023-09-28T20:00:00.000Z
 all_day: false
-links: []
+links:
+  - url: https://jornal.usp.br/ciencias/ciencias-isolamento-e-coesao-dos-grupos-de-direita-facilitaram-propagacao-coordenada-nas-eleicoes/
+    name: Interview with Jornal da USP
+    icon: building-columns
+    icon_pack: fas
 event: Interview with Jornal da USP
 event_url: https://jornal.usp.br/ciencias/ciencias-isolamento-e-coesao-dos-grupos-de-direita-facilitaram-propagacao-coordenada-nas-eleicoes/
 publishDate: 2023-10-09T19:48:37.777Z
