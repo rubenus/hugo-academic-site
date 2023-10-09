@@ -157,19 +157,19 @@ sections:
       subtitle:
       # Contact (add or remove contact options as necessary)
       # email: ruben@icmc.usp.br
-      address:
-        street: Av. Trab. São Carlense 400
-        city: São Carlos
-        region: São Paulo
-        postcode: '13566-590'
-        country: Brazil
+      # address:
+      #  street: Av. Trab. São Carlense 400
+      #  city: São Carlos
+      #  region: São Paulo
+      #  postcode: '13566-590'
+      #  country: Brazil
       #  country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: RubenUH
-          link: 'https://twitter.com/RubenUH'
+      # contact_links:
+      #  - icon: twitter
+      #    icon_pack: fab
+      #    name: RubenUH
+      #    link: 'https://twitter.com/RubenUH'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
