@@ -12,6 +12,10 @@ date: 2023-10-09T05:53:07.877Z
 date_end: 2023-10-14T03:00:00.000Z
 all_day: false
 links:
+  - url: https://www.facebook.com/programatrocandoemmiudos
+    name: Programa Trocando em Miúdos no Facebook
+    icon_pack: fab
+    icon: facebook
   - url: https://www.youtube.com/@programatrocandoemmiudos9240
     name: Programa Trocando em Miúdos no Youtube
     icon_pack: fab
