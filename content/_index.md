@@ -14,7 +14,7 @@ sections:
   - block: experience
     content:
       title: Experience
-      subtitle: [selected positions]
+      subtitle: (selected positions)
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
