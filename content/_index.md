@@ -64,7 +64,7 @@ sections:
         - certificate_url: 'https://onlinelibrary.wiley.com/doi/10.1111/itor.12811'
           date_end: ''
           date_start: '2023-01-10'
-          description: 'One of 30 representative and influential papers in the journal's history: A decision support system for fraud detection in public procurement'
+          description: 'One of 30 representative and influential papers in the Journal history: A decision support system for fraud detection in public procurement'
           organization: 'Journal: International Transactions in Operational Research'
           organization_url: 'https://onlinelibrary.wiley.com/journal/14753995'
           title: 
