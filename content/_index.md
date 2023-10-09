@@ -12,6 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: ruben-interian
   - block: experience
+    id: experience
     content:
       title: Experience
       subtitle: (selected positions)
