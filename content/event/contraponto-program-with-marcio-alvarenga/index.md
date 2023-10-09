@@ -8,8 +8,8 @@ abstract: >-
 
   *A entrevista ao programa Contraponto com Marcio Alvarenga irá abordar o recentemente publicado trabalho sobre a polarização e radicalização durante as últimas eleições.*
 location: São Paulo, Brazil
-date: 2023-10-14T12:00:00.000Z
-date_end: 2023-10-14T13:00:00.000Z
+date: 2023-10-14T13:00:00.000Z
+date_end: 2023-10-14T14:00:00.000Z
 all_day: false
 links:
   - url: https://www.facebook.com/programatrocandoemmiudos
