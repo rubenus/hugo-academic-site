@@ -13,7 +13,8 @@ sections:
       username: ruben-interian
   - block: experience
     content:
-      title: Experience (selected)
+      title: Experience
+      subtitle: (selected)
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -50,8 +51,8 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
+      title: Awards
+      subtitle: (selected)
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -60,14 +61,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 'https://onlinelibrary.wiley.com/doi/10.1111/itor.12811'
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          date_start: '2023-01-10'
+          description: 'One of 30 representative and influential papers in the journal's history: A decision support system for fraud detection in public procurement'
+          organization: 'Journal: International Transactions in Operational Research'
+          organization_url: 'https://onlinelibrary.wiley.com/journal/14753995'
+          title: 
+          url: 'https://onlinelibrary.wiley.com/doi/toc/10.1111/(ISSN)1475-3995.special-virtual-issue-30th-anniversary'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
