@@ -158,7 +158,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: ruben@icmc.usp.br
       address:
-        street: 400 Av. Trab. São Carlense
+        street: Av. Trab. São Carlense 400
         city: São Carlos
         region: São Paulo
         postcode: '13566-590'
