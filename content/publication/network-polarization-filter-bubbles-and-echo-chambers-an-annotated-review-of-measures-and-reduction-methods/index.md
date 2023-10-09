@@ -3,7 +3,7 @@ title: "Network polarization, filter bubbles, and echo chambers: an annotated
   review of measures and reduction methods"
 publication_types:
   - article-journal
-author_notes:
+authors:
   - R. Interian
   - R. G. Marzo
   - I. Mendoza
