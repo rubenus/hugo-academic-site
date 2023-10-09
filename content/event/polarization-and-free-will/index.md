@@ -16,7 +16,7 @@ date_end: 2020-02-18T17:00:00.000Z
 all_day: false
 links:
   - url: https://oglobo.globo.com/opiniao/artigo-polarizacao-livre-arbitrio-24254246
-    name: Artigo "Polarização e livre-arbítrio", Jornal O Globo, 18/02/2020
+    name: Artigo "Polarização e livre-arbítrio", Jornal O Globo
     icon_pack: fas
     icon: g
   - url: https://www.abc.org.br/2020/02/18/polarizacao-e-livre-arbitrio/
