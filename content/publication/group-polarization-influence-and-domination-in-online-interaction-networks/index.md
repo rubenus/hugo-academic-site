@@ -7,6 +7,7 @@ authors:
   - Ruben Interian
   - Francisco A. Rodrigues
 doi: 10.1088/2632-072X/acf6a4
+publication: "*Journal of Physics: Complexity*, **4**:035008"
 abstract: The erosion of social cohesion and polarization is one of the topmost
   societal risks. In this work, we investigated the evolution of polarization,
   influence, and domination in online interaction networks using a large Twitter
