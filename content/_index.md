@@ -140,7 +140,8 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      # title: Recent & Upcoming Talks
+      title: Newspaper Articles, Talks and Interviews
       filters:
         folders:
           - event
