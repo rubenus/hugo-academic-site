@@ -2,7 +2,7 @@
 title: "Network polarization, filter bubbles, and echo chambers: an annotated
   review of measures and reduction methods"
 publication_types:
-  - "2"
+  - article-journal
 author_notes:
   - R. Interian
   - R. G. Marzo
@@ -33,5 +33,5 @@ image:
   preview_only: false
   caption: "Co-occurrence network of the 30 author keywords with at least two
     appearances. "
-date: 2023-10-09T16:52:02.526Z
+date: 2023-01-01T16:52:02.526Z
 ---
