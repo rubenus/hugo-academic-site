@@ -14,7 +14,7 @@ sections:
   - block: experience
     content:
       title: Experience
-      subtitle: (selected)
+      subtitle: [selected positions]
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -39,7 +39,7 @@ sections:
           date_start: '2022-12-01'
           date_end: '2023-11-30'
           description:
-        - title: Lead Data Analyst, Consultant
+        - title: Lead Data Analyst and Consultant
           company: The World Bank
           company_url: 'https://www.worldbank.org/en/home'
           company_logo: logoworldbank
