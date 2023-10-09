@@ -25,7 +25,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: &#124; All publications &#124; 
+  - name: \u007C All publications \u007C 
     url: './publication/'
     weight: 70
 
