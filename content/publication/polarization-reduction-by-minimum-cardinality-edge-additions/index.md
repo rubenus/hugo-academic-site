@@ -2,7 +2,7 @@
 title: Polarization reduction by minimum-cardinality edge additions
 subtitle: Complexity and integer programming approaches
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - R. Interian
   - J. R. Moreno
@@ -35,5 +35,5 @@ image:
   caption: Network of books about U.S. politics sold by Amazon.com. Red, green,
     and blue vertices represent, respectively, conservative, neutral, and
     liberal books.
-date: 2023-10-09T17:25:19.914Z
+date: 2021-05-01T17:25:19.914Z
 ---
