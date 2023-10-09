@@ -158,13 +158,13 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: ruben@icmc.usp.br
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: 400 Av. Trab. São Carlense
+        city: São Carlos
+        region: São Paulo
+        postcode: '13566-590'
+        country: Brazil
+      #  country_code: US
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       contact_links:
         - icon: twitter
           icon_pack: fab
