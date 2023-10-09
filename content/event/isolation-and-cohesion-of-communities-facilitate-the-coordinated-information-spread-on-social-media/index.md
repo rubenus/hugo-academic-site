@@ -1,10 +1,9 @@
 ---
-title: Isolation and cohesion facilitate the coordinated information spread on
-  social media
-abstract: Isolation and cohesion of communities facilitate the coordinated
-  information spread on social media. On Twitter, a few influencers controlled
-  right-wing groups, having a more rigid hierarchy and speeding up the
-  coordinated dissemination of information during elections.
+title: Isolation and cohesion facilitate information spread on social media
+abstract: Isolation and cohesion of polarized communities facilitate the
+  coordinated information spread on social media. On Twitter, a few influencers
+  controlled right-wing groups, having a more rigid hierarchy and speeding up
+  the coordinated dissemination of information during elections.
 location: Jornal da USP
 date: 2023-09-28T19:00:00.000Z
 date_end: 2023-09-28T20:00:00.000Z
