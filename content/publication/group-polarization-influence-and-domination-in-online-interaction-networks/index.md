@@ -1,8 +1,7 @@
 ---
 title: Group polarization, influence, and domination in online interaction networks
 subtitle: A case study of the 2022 Brazilian elections
-publication_types:
-  - "2"
+publication_types: ["article-journal"]
 authors:
   - Ruben Interian
   - Francisco A. Rodrigues
