@@ -1,6 +1,6 @@
 ---
 title: An empirical investigation of network polarization
-subtitle: Applied Mathematics and Computation
+subtitle: ""
 publication_types:
   - article-journal
 authors:
