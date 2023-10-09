@@ -141,7 +141,7 @@ sections:
     id: talks
     content:
       # title: Recent & Upcoming Talks
-      title: Newspaper Articles, Talks and Interviews
+      title: Newspaper, Talks & Interviews
       filters:
         folders:
           - event
