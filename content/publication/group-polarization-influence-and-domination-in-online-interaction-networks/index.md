@@ -1,10 +1,11 @@
 ---
 title: Group polarization, influence, and domination in online interaction networks
 subtitle: A case study of the 2022 Brazilian elections
-publication_types: ["article-journal"]
+publication_types:
+  - article-journal
 authors:
-  - Ruben Interian
-  - Francisco A. Rodrigues
+  - R. Interian
+  - F. A. Rodrigues
 doi: 10.1088/2632-072X/acf6a4
 publication: "*Journal of Physics: Complexity*, **4**:035008"
 abstract: The erosion of social cohesion and polarization is one of the topmost
@@ -33,23 +34,11 @@ abstract: The erosion of social cohesion and polarization is one of the topmost
   Brazilian elections, which likely influenced the subsequent coup events in
   Brasilia.
 draft: false
+url_pdf: https://iopscience.iop.org/article/10.1088/2632-072X/acf6a4/pdf
 featured: true
 image:
   filename: graph_2022_10_02.png
   focal_point: Smart
   preview_only: false
 date: 2023-09-13T04:43:17.057Z
-
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://iopscience.iop.org/article/10.1088/2632-072X/acf6a4/pdf
-# url_code: ''
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
-
 ---
