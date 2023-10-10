@@ -26,6 +26,7 @@ abstract: Polarization arises when the underlying network connecting the members
   social network design, or changes in the recommendation systems embedded in
   these networks.
 draft: false
+url_pdf: https://browse.arxiv.org/pdf/2207.13799.pdf
 featured: true
 image:
   filename: co-occurrence-author-keywords-network.png
