@@ -1,12 +1,12 @@
 ---
 title: Contraponto Program with Marcio Alvarenga
 abstract: >-
-  The interview in the Contraponto program with Marcio Alvarenga will address
-  the recently published work on polarization and radicalization during the last
+  The interview in the Contraponto program with Marcio Alvarenga addresses the
+  recently published work on polarization and radicalization during the last
   elections.
 
 
-  *A entrevista ao programa Contraponto com Marcio Alvarenga irá abordar o recentemente publicado trabalho sobre a polarização e radicalização durante as últimas eleições.*
+  *A entrevista ao programa Contraponto com Marcio Alvarenga aborda o recente trabalho sobre a polarização e radicalização durante as últimas eleições.*
 location: São Paulo, Brazil
 date: 2023-10-14T13:00:00.000Z
 date_end: 2023-10-14T14:00:00.000Z
@@ -28,7 +28,7 @@ publishDate: 2023-10-09T05:53:07.939Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: trocandomiudos.jpeg
   focal_point: Smart
   preview_only: false
 ---
