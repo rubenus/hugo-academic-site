@@ -16,10 +16,6 @@ links:
     name: Trocando em Miúdos no Facebook
     icon_pack: fab
     icon: facebook
-  - url: https://www.youtube.com/@programatrocandoemmiudos9240
-    name: Trocando em Miúdos no Youtube
-    icon_pack: fab
-    icon: youtube
   - url: http://www.programatrocandoemmiudos.com.br/
     name: Trocando em Miúdos / Contraponto
 event: Contraponto Program with Marcio Alvarenga
