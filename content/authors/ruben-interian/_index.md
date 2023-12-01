@@ -40,8 +40,6 @@ social:
     icon: envelope
     label: E-mail
 organizations:
-  - url: https://www.topuniversities.com/universities/universidade-de-sao-paulo
-    name: Universidade de São Paulo
   - name: Universidade Estadual de Campinas (Unicamp)
     url: https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp
 education:
