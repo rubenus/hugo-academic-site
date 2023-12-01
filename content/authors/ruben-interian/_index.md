@@ -57,7 +57,7 @@ education:
       course: B.Sc. in Computer Science
 superuser: true
 ---
-I am currently a FAPESP Research Fellow at **University of São Paulo**. I will be joining the **State University of Campinas** (Universidade Estadual de Campinas, Unicamp) as a permanent Professor at the Institute of Computing starting in December 2023. 
+I am a permanent Professor at the Institute of Computing, **State University of Campinas** (Universidade Estadual de Campinas, Unicamp). 
 
 My research field is Computational Social Science, focusing specifically on studying human and information behavior through the analysis of **interaction networks of individuals and groups on digital platforms**. I am particularly interested in empirical analysis and mathematical modeling of the collective dynamics of human systems, the emergence of polarization, radicalization, conflicts, and other similar topics. Key questions in my research are: What can we learn about people and communities from how they interact with each other through digital platforms? How do algorithms affect, and ideally can improve, both individual and social outcomes?
 
