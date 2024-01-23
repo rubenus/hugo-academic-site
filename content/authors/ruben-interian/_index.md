@@ -57,7 +57,7 @@ superuser: true
 ---
 I am a permanent Professor at the Institute of Computing, **University of Campinas** (Universidade Estadual de Campinas, Unicamp). 
 
-My research focuses on studying human and information behavior by analyzing **interaction networks of individuals and groups on digital platforms**. I am particularly interested in empirical analysis and mathematical modeling of the collective dynamics of human systems, the emergence of polarization, radicalization, conflicts, and other similar topics. Key questions in my research are: What can we learn about people and communities from how they interact with each other through digital platforms? How do algorithms affect, and ideally can improve, both individual and social outcomes?
+My research focuses on studying human and information behavior by analyzing **interaction networks of individuals and groups on digital platforms**. I am particularly interested in empirical analysis and mathematical modeling of the collective dynamics of human systems. Key questions in my research are: What can we learn about people and communities from how they interact with each other through digital platforms? How do algorithms affect, and ideally can improve, both individual and social outcomes?
 
 In a close line of research, I have studied **interaction networks of companies, institutions, and individuals** to detect fraud patterns, conflicts of interest, and collusion. These interaction networks are often created from biddings, procurement data, and other public datasets. 
 
