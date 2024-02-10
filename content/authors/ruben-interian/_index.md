@@ -35,7 +35,7 @@ social:
     icon_pack: ai
   - display:
       header: false
-    link: mailto:ruben@icmc.usp.br
+    link: mailto:ruben@ic.unicamp.br
     icon_pack: fas
     icon: envelope
     label: E-mail
