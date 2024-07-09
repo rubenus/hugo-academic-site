@@ -23,7 +23,7 @@ abstract: This paper proposes and explores a new quantitative characterization
   polarization. The usefulness of the approach is illustrated in several case
   studies associated with real-life data sets from different sources.
 draft: false
-url_pdf: http://profs.ic.uff.br/~celso/artigos/2018%20-%20An%20empirical%20investigation%20of%20network%20polarization%20-%20Interian.pdf
+url_pdf: https://ic.unicamp.br/~ruben/publications/2018%20-%20An%20empirical%20investigation%20of%20network%20polarization.pdf
 featured: true
 image:
   filename: blogs-1.png
