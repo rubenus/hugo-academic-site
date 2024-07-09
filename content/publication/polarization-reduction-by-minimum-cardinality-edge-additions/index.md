@@ -27,7 +27,7 @@ abstract: Real-world networks are often extremely polarized because the
   networks, which is a relevant problem in a world characterized by extreme
   political and ideological polarization.
 draft: false
-url_pdf: http://profs.ic.uff.br/~celso/artigos/itor.12854
+url_pdf: https://ic.unicamp.br/~ruben/publications/2021%20-%20Polarization%20reduction%20by%20M-C%20edge%20additions%20-%20complexity%20and%20IP%20approaches.pdf
 featured: true
 image:
   filename: polbooks-1.png
