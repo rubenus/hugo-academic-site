@@ -34,7 +34,7 @@ abstract: The erosion of social cohesion and polarization is one of the topmost
   Brazilian elections, which likely influenced the subsequent coup events in
   Brasilia.
 draft: false
-url_pdf: https://iopscience.iop.org/article/10.1088/2632-072X/acf6a4/pdf
+url_pdf: https://ic.unicamp.br/~ruben/publications/2023%20-%20GPID%20in%20online%20interaction%20networks%20A%20case%20study%20of%202022%20BR%20elections.pdf
 featured: true
 image:
   filename: graph_2022_10_02.png
