@@ -23,6 +23,12 @@ social:
     link: https://twitter.com/RubenUH
     icon: twitter
     label: Follow me on Twitter
+- display:
+      header: false
+    icon_pack: ai
+    link: https://ic.unicamp.br/~ruben/
+    icon: books
+    label: Teaching and courses
   - display:
       header: false
     icon_pack: ai
