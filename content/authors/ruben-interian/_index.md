@@ -25,9 +25,9 @@ social:
     label: Follow me on Twitter
   - display:
       header: false
-    icon_pack: ai
+    icon_pack: fas
     link: https://ic.unicamp.br/~ruben/
-    icon: books
+    icon: book
     label: Teaching and courses
   - display:
       header: false
