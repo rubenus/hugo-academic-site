@@ -20,7 +20,7 @@ publishDate: 2025-12-02T17:21:30.240Z
 draft: false
 featured: false
 image:
-  filename: fcw.jpg
+  filename: fcw_mod.jpg
   focal_point: Smart
   preview_only: false
 ---
