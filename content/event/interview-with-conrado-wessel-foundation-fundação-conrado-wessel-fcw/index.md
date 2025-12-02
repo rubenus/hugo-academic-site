@@ -3,7 +3,7 @@ title: Interview with Conrado Wessel Foundation (Fundação Conrado Wessel, FCW)
 abstract: "The interview with Revista FCW Cultura Científica (FCW Scientific
   Culture) examines how negative interactions and group structures lead to
   polarization and radicalization. It warns of the new risks posed by generative
-  AI and advocates transparency, regulation of boosted content, and digital
+  AI and advocates transparency, regulation of promoted content, and digital
   education. "
 location: São Paulo, Brazil
 date: 2025-11-24T13:00:00.000Z
