@@ -1,5 +1,5 @@
 ---
-title: "Article in The Conversation Brasil republished by G1. "
+title: Article in The Conversation Brasil republished by G1 (Grupo Globo)
 abstract: >-
   Social networks, algorithms, and risks: how digital platforms are reshaping
   public debate. 
