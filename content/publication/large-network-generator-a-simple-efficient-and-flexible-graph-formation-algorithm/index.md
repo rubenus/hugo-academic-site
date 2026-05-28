@@ -2,7 +2,7 @@
 title: "Large Network Generator: a simple, efficient, and flexible graph
   formation algorithm"
 publication_types:
-  - "2"
+  - article-journal
 authors:
   - J. P. C. Morais
   - C. C. Ribeiro
