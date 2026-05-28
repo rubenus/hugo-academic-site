@@ -27,6 +27,7 @@ abstract: "This study introduces the Large Network Generator, an algorithm
   60 s. The implementation of our algorithm is publicly available on a GitHub
   repository."
 draft: false
+url_pdf: https://ic.unicamp.br/~ruben/publications/2026_LNG_simple_efficient_flexible_graph_formation.pdf
 featured: true
 image:
   filename: jpcomplexae6eabf5_hr.jpg
