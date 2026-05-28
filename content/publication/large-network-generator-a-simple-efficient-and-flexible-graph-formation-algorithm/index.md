@@ -6,7 +6,7 @@ publication_types:
 authors:
   - J. P. C. Morais
   - C. C. Ribeiro
-  - and R. Interian
+  - R. Interian
 doi: 10.1088/2632-072X/ae6eab
 publication: "*Journal of Physics: Complexity*, **7**:025011"
 abstract: "This study introduces the Large Network Generator, an algorithm
