@@ -4,10 +4,11 @@ title: "Large Network Generator: a simple, efficient, and flexible graph
 publication_types:
   - "0"
 authors:
-  - João Pedro C Morais
-  - Celso C Ribeiro
-  - and Ruben Interian
+  - J. P. C. Morais
+  - C. C. Ribeiro
+  - and R. Interian
 doi: 10.1088/2632-072X/ae6eab
+publication: "*Journal of Physics: Complexity*, **7**:025011"
 abstract: "This study introduces the Large Network Generator, an algorithm
   capable of creating undirected graphs with three main characteristics of
   real-world networks: long-tailed degree distribution, short distances between
