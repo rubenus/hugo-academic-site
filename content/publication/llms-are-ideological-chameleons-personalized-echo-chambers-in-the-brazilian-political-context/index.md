@@ -4,6 +4,12 @@ title: "LLMs are ideological chameleons: personalized echo chambers in the
 subtitle: ""
 publication_types:
   - "2"
+authors:
+  - A. L. B. Soares
+  - B. A. V. de Almeida
+  - L. N. Ferreira
+  - A. Rocha
+  - R. Interian & Z. Dias
 doi: 10.1038/s41598-026-52105-6
 publication: Scientific Reports
 abstract: "Users are increasingly relying on Large Language Models (LLMs) for
