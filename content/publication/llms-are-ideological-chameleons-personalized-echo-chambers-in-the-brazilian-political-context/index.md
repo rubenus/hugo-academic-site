@@ -35,6 +35,7 @@ abstract: "Users are increasingly relying on Large Language Models (LLMs) for
   for political microtargeting, persuasion, and the governance of AI systems in
   polarized societies."
 draft: false
+url_pdf: https://ic.unicamp.br/~ruben/publications/2026_LLMs_are_ideological_chameleons.pdf
 featured: true
 image:
   filename: ia_camaleao.png
